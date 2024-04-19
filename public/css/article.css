@@ -1,0 +1,11 @@
+.carte{
+    display: flex;
+    gap: 10px;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+img{
+    display: block;
+    margin: auto;
+}
+
